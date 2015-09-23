@@ -1,8 +1,13 @@
 # guide
 * Cilent dwnload
-    * http://www.minecraftxz.com/188minecraftwodeshijie188duoguoyuyanbanmclvsezhongwenban/    
+   * http://www.minecraftxz.com/188minecraftwodeshijie188duoguoyuyanbanmclvsezhongwenban/   
+    
+   |Links|Password|
+   |:---:|---|
+   |http://pan.baidu.com/s/12mL3o|sivw|
+   |http://pan.baidu.com/s/1mgpeHpY|qtfr|
 *  Begins
-    * http://www.minecraftxz.com/tobegins/
+   * http://www.minecraftxz.com/tobegins/
 * minecraft-craftting-guide
    * http://www.minecraftxz.com/the-mc-synthesis-table-chinese-pictures-minecraft-craftting-guide/
 
