@@ -10,7 +10,7 @@ Welcome to the game wiki!
 * [site1](http://info.9iphp.com/games-that-teach-how-to-code/)
 * [site2](http://segmentfault.com/a/1190000000626728)
 * [site3](http://www.douban.com/note/294946618/)
-* [site4](http://www.gametop.com/)
+
  * [http://www.alloyteam.com/2012/08/welcome-to-codetank/](http://www.alloyteam.com/2012/08/welcome-to-codetank/)
 * [hackthegame](http://chaozz.nl/)  
  * [introduce](http://www.appinn.com/hackthegame/)
