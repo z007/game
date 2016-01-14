@@ -1,3 +1,6 @@
+* [火柴人遇上《我的世界 Minecraft》](http://www.appinn.com/animation-vs-minecraft/)
+  * [Animation vs. Minecraft](https://www.youtube.com/watch?v=GW_fdXHOWp4)
+
 # guide
 * Cilent dwnload
    * http://www.minecraftxz.com/188minecraftwodeshijie188duoguoyuyanbanmclvsezhongwenban/   
