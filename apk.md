@@ -3,6 +3,7 @@
 
 * [Google play](https://play.google.com/store)
 * [aptoide](http://www.aptoide.com/ )
+* http://www.apk4fun.com/
  
 # Game
 
@@ -13,3 +14,5 @@
  *  环环相扣
 * aa
 * Panda Pop
+* [Next Numbers 2](http://www.appinn.com/next-numbers-2/)
+ *  [voide](https://www.youtube.com/watch?v=gIVmt9qjx3M)
